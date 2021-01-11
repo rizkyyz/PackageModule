@@ -5,8 +5,8 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Folder Syntax | [penjelasan](#Tugas PackageModule) | [codenye](#main.py) |
-| 2. | hasil Program | [penjelasan](#Tugas PackageModule) | [foto](#image) |  
+| 1. | Folder Syntax | [penjelasan](# Tugas PackageModule) | [codenye](main.py) |
+| 2. | hasil Program | [penjelasan](# Tugas PackageModule) | [foto](image) |  
 
 # Tugas PackageModule
 Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan struktur seperti berikut:
